@@ -20,6 +20,6 @@ int main()
         printf("The number is a Palindrome");
     else
         printf("The number is not a Palindrome");
-        printf("           -25331A05C9”);
+        printf("\n code by 25331A05G5");
     return 0;
 }
