@@ -15,6 +15,6 @@ int main()
     result = sum(x, y);
 
     printf("Sum = %d", result);
-    printf("           -25331A05C9”);  
+    printf("\n code by 25331A05G5");  
     return 0;
 }
