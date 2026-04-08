@@ -24,6 +24,6 @@ int main()
         printf("The number is Prime");
     else
         printf("The number is Not Prime");
-        printf("           -25331A05C9”);
+        printf("\n code by 25331A05G5");
     return 0;
 }
