@@ -18,6 +18,6 @@ int main()
     result = gcd(a, b);
 
     printf("GCD of %d and %d is %d", a, b, result);
-    printf("           -25331A05C9”);    
+    printf("\n code by 25331A05G5");    
     return 0;
 }
