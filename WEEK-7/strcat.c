@@ -21,6 +21,6 @@ int main()
     str1[i] = '\0';
 
     printf("Concatenated string = %s", str1);
-
+    printf("           -25331A05C9”);
     return 0;
 }
