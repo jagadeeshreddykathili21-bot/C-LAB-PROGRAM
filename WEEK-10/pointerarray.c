@@ -10,5 +10,7 @@ int main() {
         printf("%d ", *(ptr + i));
     }
 
+    printf("          -25331A05C9”);
+    
     return 0;
 }
