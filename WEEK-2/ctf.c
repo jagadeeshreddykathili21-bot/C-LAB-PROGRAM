@@ -15,6 +15,6 @@ int main()
 
     c = (f - 32) * 5/9;
     printf("Temperature in Celsius = %.2f", c);
-    printf("           -25331A05C9”);
+    printf("\n code by 25331A05G5");
     return 0;
 }
