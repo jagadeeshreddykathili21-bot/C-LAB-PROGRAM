@@ -21,7 +21,7 @@ int main() {
     for(i = 0; i < n; i++) {
         printf("%d ", ptr2[i]);
     }
-    printf("\n\n           -25331A05C9");
+        printf("\n code by 25331A05G5");
 
     return 0;
 }
