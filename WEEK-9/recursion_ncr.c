@@ -18,6 +18,6 @@ int main()
     result = fact(n) / (fact(r) * fact(n - r));
 
     printf("Value of nCr = %d", result);
-    printf("           -25331A05C9”);   
+    printf("\n code by 25331A05G5");  
     return 0;
 }
