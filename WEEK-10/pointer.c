@@ -13,6 +13,6 @@ int main() {
 
     ptr--;
     printf("After decrement, pointer = %u\n", ptr);
-    printf("      -25331A05C9")
+    printf("\n code by 25331A05G5");
     return 0;
 }
