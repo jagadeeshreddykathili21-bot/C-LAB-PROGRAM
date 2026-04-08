@@ -21,6 +21,6 @@ int main()
     {
         printf("%d ", fib(i));
     }
-        printf("           -25331A05C9”);
+        printf("\n code by 25331A05G5");
     return 0;
 }
