@@ -9,8 +9,7 @@ int main() {
     for(i = 0; i < 5; i++) {
         printf("%d ", *(ptr + i));
     }
-
-    printf("          -25331A05C9”);
+        printf("\n code by 25331A05G5");
     
     return 0;
 }
